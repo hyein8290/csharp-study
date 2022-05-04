@@ -1,0 +1,8 @@
+E:\study\csharp-study\ClientTest\bin\Debug\ClientTest.exe
+E:\study\csharp-study\ClientTest\bin\Debug\ClientTest.pdb
+E:\study\csharp-study\ClientTest\obj\Debug\ClientTest.csprojAssemblyReference.cache
+E:\study\csharp-study\ClientTest\obj\Debug\ClientTest.Properties.Resources.resources
+E:\study\csharp-study\ClientTest\obj\Debug\ClientTest.csproj.GenerateResource.cache
+E:\study\csharp-study\ClientTest\obj\Debug\ClientTest.csproj.CoreCompileInputs.cache
+E:\study\csharp-study\ClientTest\obj\Debug\ClientTest.exe
+E:\study\csharp-study\ClientTest\obj\Debug\ClientTest.pdb
