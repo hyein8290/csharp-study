@@ -1,0 +1,9 @@
+E:\study\csharp-study\PirctureViewer\bin\Debug\PirctureViewer.exe
+E:\study\csharp-study\PirctureViewer\bin\Debug\PirctureViewer.pdb
+E:\study\csharp-study\PirctureViewer\obj\Debug\PirctureViewer.csprojAssemblyReference.cache
+E:\study\csharp-study\PirctureViewer\obj\Debug\PirctureViewer.Form1.resources
+E:\study\csharp-study\PirctureViewer\obj\Debug\PirctureViewer.Properties.Resources.resources
+E:\study\csharp-study\PirctureViewer\obj\Debug\PirctureViewer.csproj.GenerateResource.cache
+E:\study\csharp-study\PirctureViewer\obj\Debug\PirctureViewer.csproj.CoreCompileInputs.cache
+E:\study\csharp-study\PirctureViewer\obj\Debug\PirctureViewer.exe
+E:\study\csharp-study\PirctureViewer\obj\Debug\PirctureViewer.pdb
